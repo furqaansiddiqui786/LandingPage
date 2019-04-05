@@ -1,0 +1,21 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.hero{
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    font-family: 'Titan One', cursive;
+    font-size: 60px;
+}
+
+.bigone{
+    font-size: 100px;
+}
+
+.ima{
+    width: 200px;
+    height: 100px;
+}
